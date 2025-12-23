@@ -3,7 +3,7 @@
 **Design Workshop – Landing Page**
 
 Landing page moderna e profissional para divulgação de um workshop de design.
-
+Visualização: https://gitv8.github.io/workshop-design/
 
 ## 📌 Resumo
 
