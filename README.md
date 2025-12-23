@@ -4,14 +4,12 @@
 
 Landing page moderna e profissional para divulgação de um workshop de design.
 
----
 
 ## 📌 Resumo
 
 Página única (**one-page**) focada em converter visitantes em inscritos para um workshop intensivo de design.
 Visual elegante, animações sutis e experiência premium.
 
----
 
 ## ✨ Características
 
@@ -22,7 +20,6 @@ Visual elegante, animações sutis e experiência premium.
 * Microinterações — 3D tilt, button shine, floating shapes
 * Seções bem estruturadas — Hero, Learning Topics, Gallery, About, Format, CTA
 
----
 
 ## 🛠 Stack Técnico
 
@@ -31,7 +28,6 @@ Visual elegante, animações sutis e experiência premium.
 * JavaScript Vanilla (sem dependências externas)
 * Google Fonts (Space Grotesk + Inter)
 
----
 
 ## 📐 Estrutura da Página
 
@@ -45,11 +41,10 @@ CTA Final (conversão)
 Footer
 ```
 
----
+
 
 ## 📁 Estrutura do Projeto
 
-```
 ├── index.html
 ├── assets
 │   ├── css
@@ -60,13 +55,13 @@ Footer
 └── README.md
 ```
 
----
+
 
 ## 🎯 Público-Alvo
 
 Designers intermediários e avançados que desejam aprimorar seu processo criativo e habilidades práticas.
 
----
+
 
 ## 🎯 Objetivo
 
