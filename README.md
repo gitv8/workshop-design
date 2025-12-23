@@ -45,6 +45,7 @@ Footer
 
 ## 📁 Estrutura do Projeto
 
+```
 ├── index.html
 ├── assets
 │   ├── css
@@ -71,4 +72,3 @@ Gerar inscrições por meio de uma experiência visual que transmita qualidade, 
 
 **Projeto profissional adaptado para fins de portfólio.**
 
----
